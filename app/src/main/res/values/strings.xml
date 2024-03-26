@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BriefBeat</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="description">Description</string>
+    <string name="read_more">Read More</string>
+    <string name="beats_of_today">Beats of Today</string>
+</resources>
